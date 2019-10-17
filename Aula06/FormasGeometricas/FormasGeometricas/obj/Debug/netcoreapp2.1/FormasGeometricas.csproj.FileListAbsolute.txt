@@ -1,0 +1,11 @@
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp2.1\FormasGeometricas.deps.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp2.1\FormasGeometricas.runtimeconfig.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp2.1\FormasGeometricas.runtimeconfig.dev.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp2.1\FormasGeometricas.dll
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\bin\Debug\netcoreapp2.1\FormasGeometricas.pdb
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp2.1\FormasGeometricas.csprojAssemblyReference.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp2.1\FormasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp2.1\FormasGeometricas.AssemblyInfoInputs.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp2.1\FormasGeometricas.AssemblyInfo.cs
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp2.1\FormasGeometricas.dll
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula06\FormasGeometricas\FormasGeometricas\obj\Debug\netcoreapp2.1\FormasGeometricas.pdb

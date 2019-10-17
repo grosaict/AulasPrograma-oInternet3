@@ -1,0 +1,10 @@
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.2\ProjetoLinq.deps.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.2\ProjetoLinq.runtimeconfig.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.2\ProjetoLinq.runtimeconfig.dev.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.2\ProjetoLinq.dll
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.2\ProjetoLinq.pdb
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.2\ProjetoLinq.csprojAssemblyReference.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.2\ProjetoLinq.AssemblyInfoInputs.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.2\ProjetoLinq.AssemblyInfo.cs
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.2\ProjetoLinq.dll
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula08\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.2\ProjetoLinq.pdb

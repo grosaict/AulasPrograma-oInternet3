@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallmart", "Wallmart\Wallmart.csproj", "{BC80DE27-A1FA-4DF6-8DE0-2C1C264A6639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC80DE27-A1FA-4DF6-8DE0-2C1C264A6639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC80DE27-A1FA-4DF6-8DE0-2C1C264A6639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC80DE27-A1FA-4DF6-8DE0-2C1C264A6639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC80DE27-A1FA-4DF6-8DE0-2C1C264A6639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C54865F-C6D4-4328-BD63-937A50412A97}
+	EndGlobalSection
+EndGlobal

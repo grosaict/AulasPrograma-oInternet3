@@ -1,0 +1,10 @@
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\bin\Release\netcoreapp2.1\ProjetoRevisao.deps.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\bin\Release\netcoreapp2.1\ProjetoRevisao.runtimeconfig.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\bin\Release\netcoreapp2.1\ProjetoRevisao.runtimeconfig.dev.json
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\bin\Release\netcoreapp2.1\ProjetoRevisao.dll
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\bin\Release\netcoreapp2.1\ProjetoRevisao.pdb
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\obj\Release\netcoreapp2.1\ProjetoRevisao.csproj.CoreCompileInputs.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\obj\Release\netcoreapp2.1\ProjetoRevisao.AssemblyInfoInputs.cache
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\obj\Release\netcoreapp2.1\ProjetoRevisao.AssemblyInfo.cs
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\obj\Release\netcoreapp2.1\ProjetoRevisao.dll
+C:\Users\gsenn\Desktop\workspace\PI3-Atividades\Aula04\ProjetoRevisao\ProjetoRevisao\obj\Release\netcoreapp2.1\ProjetoRevisao.pdb

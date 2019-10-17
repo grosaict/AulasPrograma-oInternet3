@@ -1,0 +1,11 @@
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.1\ProjetoLinq.deps.json
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.1\ProjetoLinq.runtimeconfig.json
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.1\ProjetoLinq.runtimeconfig.dev.json
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.1\ProjetoLinq.dll
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\bin\Debug\netcoreapp2.1\ProjetoLinq.pdb
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.1\ProjetoLinq.csprojAssemblyReference.cache
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.1\ProjetoLinq.csproj.CoreCompileInputs.cache
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.1\ProjetoLinq.AssemblyInfoInputs.cache
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.1\ProjetoLinq.AssemblyInfo.cs
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.1\ProjetoLinq.dll
+C:\Users\rroliveira\source\repos\ProjetoLinq\ProjetoLinq\obj\Debug\netcoreapp2.1\ProjetoLinq.pdb
